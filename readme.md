@@ -56,3 +56,4 @@ npm run resetdb
 The client app uses an environment variable to know what the URL is for the
 backend api named `VITE_API_URL`. It defaults to "http://localhost:3001" for use
 in dev mode, and should be overriden in other environments/modes.
+# cypress-heroes-exercicio
