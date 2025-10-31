@@ -1,0 +1,40 @@
+{
+    "userSuccessNormal": {
+        "email": "test@test.com",
+        "password": "test123"
+      },
+
+    "userFailNormal": {
+        "email": "test@test.com",
+        "password": "wrongpassword"
+    },
+
+     "userSuccessAdmin": {
+        "adminEmail": "admin@test.com",
+        "adminPassword": "test123"
+    },
+
+     "createHeroData": {
+        "name": "testing person",
+        "price": "500",
+        "fans": "1000",
+        "saves": "200",
+        "power": "Mind Control"
+     },
+
+     "editHeroData": {
+        "name": "Hero test Matt",
+        "price": "91",
+        "fans": "102",
+        "saves": "33",
+        "power": "Telekinesis"
+     },
+
+     "editHeroDatawithImage":{
+            "name": "Hero test Matt 2",
+            "price": "800",
+            "fans": "1",
+            "saves": "300",
+            "power": "Fireball"
+        }
+    }
